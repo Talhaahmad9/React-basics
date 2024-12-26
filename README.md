@@ -63,7 +63,3 @@ In this project, you can use the following commands:
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions, issues, and feature requests are welcome.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
